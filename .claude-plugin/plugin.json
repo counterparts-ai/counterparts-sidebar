@@ -1,7 +1,7 @@
 {
   "name": "counterparts-sidebar",
   "displayName": "Counterparts Sidebar",
-  "version": "0.3.39",
+  "version": "0.3.40",
   "description": "The Counterparts sidebar: a pane beside the chat that shows what your counterpart's memory is doing (what came to mind, what was saved, the day's mechanisms, the last dream), with a fox. Installs Counterparts, the memory, with it.",
   "author": {
     "name": "Mike LaPeter",
